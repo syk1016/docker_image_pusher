@@ -1,3 +1,4 @@
-nginx
-mysql
-k8s.gcr.io/kube-apiserver:1.17.4
+grafana/grafana:9.4.3
+petergrace/opentsdb-docker
+mysql:5.7
+redis
