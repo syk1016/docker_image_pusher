@@ -1,4 +1,1 @@
-grafana/grafana:9.4.3
-petergrace/opentsdb-docker
-mysql:5.7
-redis
+rabbitmq
