@@ -1,3 +1,1 @@
-prom/node-exporter:v1.5.0
-prom/prometheus:v2.37.6
-grafana/grafana:9.4.3
+prom/alertmanager
