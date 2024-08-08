@@ -1,3 +1,2 @@
-node-exporter
-prometheus:v2.0.0
-grafana:6.1.4
+prom/prometheus:v2.0.0
+grafana/grafana:6.1.4
