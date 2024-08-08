@@ -1,2 +1,3 @@
-prom/prometheus:v2.0.0
-grafana/grafana:6.1.4
+prom/exporter:v1.5.0
+prom/prometheus:v2.37.6
+grafana/grafana:9.4.3
