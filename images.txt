@@ -1,1 +1,1 @@
-nginx:1.17.1
+telegraf:1.23
