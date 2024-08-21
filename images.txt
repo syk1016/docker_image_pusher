@@ -1,2 +1,1 @@
-influxdb：2.3.0
-telegraf：1.23
+influxdb:2.3.0
